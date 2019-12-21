@@ -1,0 +1,7 @@
+/* pages/home1/home1.wxss */
+.btn1 {
+  width: 80%;
+  margin-top: 20rpx;
+  background-color: beige;
+  color: white;
+}

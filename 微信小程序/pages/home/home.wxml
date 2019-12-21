@@ -1,0 +1,28 @@
+<!--pages/home/home.wxml-->
+<view class='section1'>城市</view>
+<view class='section'>第1次数据:</view>
+<view class='section'>{{a1}}\n</view>
+<view wx:if="{{a1>80}}" style="color:red;font-size=24px">超过最大限制！
+</view>
+<view class='section'>第2次数据:</view>
+<view class='section'>{{a2}}\n</view>
+<view wx:if="{{a2>80}}" style="color:red;font-size=24px">超过最大限制！
+</view>
+<view class='section'>第3次数据:</view>
+<view class='section'>{{a3}}\n</view>
+<view wx:if="{{a3>80}}" style="color:red;font-size=24px">超过最大限制！
+</view>
+<view class='section'>第4次数据:</view>
+<view class='section'>{{a4}}\n</view>
+<view wx:if="{{a4>80}}" style="color:red;font-size=24px">超过最大限制！
+</view>
+<view class='section'>第5次数据:</view>
+<view class='section'>{{a5}}\n</view>
+<view wx:if="{{a5>80}}" style="color:red;font-size=24px">超过最大限制！
+</view>
+
+<view wx:if="{{a1>100}}">
+<image src="../../image/timg.jpg"></image>
+</view>
+
+

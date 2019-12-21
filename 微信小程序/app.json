@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/home1/home1",
+    "pages/home/home",
+    "pages/home2/home2",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "导论课作业",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  
+  "requiredBackgroundModes": [
+    "audio",
+    "backgroundAudioManager"
+  ]
+}

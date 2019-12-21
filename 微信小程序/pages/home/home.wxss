@@ -1,0 +1,11 @@
+.section{
+    margin-bottom: 20rpx;
+    margin-top: 20rpx;
+    font-size: 20px;
+}
+.section1{
+    margin-bottom: 20rpx;
+    text-align:center;
+    margin-top: 20rpx;
+    font-size: 25px;
+}

@@ -1,0 +1,9 @@
+<view class='userdemo'>
+    <text>\n\n\n\n\n\n\n\n\n</text>
+    <button type='primary' bindtap='gotoPage1'>点击进入城市</button>
+   <text>\n\n\n</text>
+   <button type='primary' bindtap='gotoPage2'>点击进入乡村</button>	 </view>
+
+
+
+
